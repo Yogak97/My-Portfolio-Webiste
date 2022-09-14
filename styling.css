@@ -1,0 +1,7 @@
+.padding
+{
+    height: 150px;
+    width: 150px;
+    /*  top right bottom left*/
+    padding: 100px 500px 10px 500px;
+}
